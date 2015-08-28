@@ -8,10 +8,10 @@ menu:
 subnav:
   github: "https://github.com/jiangyinbin"
   weibo: "http://weibo.com/u/3883407289"
-  rss: "http://rss.weibodangan.com/weibo/rss/3883407289/"
+  #rss: "http://rss.weibodangan.com/weibo/rss/3883407289/"
   #zhihu: "#"
   #douban: "#"
-  #mail: "#"
+  mail: "mailto:qq709080989@gmail.com"
   #facebook: "#"
   #google: "#"
   #twitter: "#"
